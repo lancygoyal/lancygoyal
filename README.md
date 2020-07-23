@@ -12,6 +12,8 @@ I'm Lancy Goyal. 😄 I'm a Chandigarh, India, based Passionate FullStack Softwa
   </samp>
 </p>
 
+![Profile views](https://gpvc.arturio.dev/lancygoyal)  
+
 <!--
 **lancygoyal/lancygoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
