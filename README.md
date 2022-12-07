@@ -9,4 +9,4 @@
   </samp>
 </p>
 
-![Profile views](https://gpvc.arturio.dev/lancygoyal)
+<!-- ![Profile views](https://gpvc.arturio.dev/lancygoyal) -->
