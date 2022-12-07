@@ -5,7 +5,7 @@
     <br><br>
 <!--     <img src="https://lancygoyal.github.io/images/qrcode.png" width="100px">
     <br><br> -->
-    <a href="https://www.linkedin.com/in/lancygoyal">Say Hi</a> :pray:
+    <a href="https://www.linkedin.com/in/lancygoyal">Let's Connect</a> :pray:
   </samp>
 </p>
 
