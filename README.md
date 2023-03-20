@@ -27,4 +27,4 @@ I have excellent working experience working with multiple businesses building th
 
 [![Lancy's github stats](https://github-readme-stats.vercel.app/api?username=lancygoyal&count_private=true&show_icons=true&theme=dracula)](https://github.com/lancygoyal/)
 
-<!-- [![Lancy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lancygoyal&layout=compact&theme=dracula)](https://github.com/lancygoyal/) -->
+[![Lancy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lancygoyal&layout=compact&theme=dracula)](https://github.com/lancygoyal/)
